@@ -78,4 +78,4 @@ pip install -r requirements.txt
 
 ##👩‍💻 Author
 
-Manisha K-Dashboard Development internship project (codtech)
+Manisha K-Sentiment Analysis internship project (codtech)
